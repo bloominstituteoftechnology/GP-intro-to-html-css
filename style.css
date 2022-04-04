@@ -72,7 +72,7 @@ header nav{
 /*Top Section Styles*/
 #top{
     height:85vh;
-    background-image:url('https://github.com/BrityHemming/farm-to-table-practice-project/blob/solution/farm-to-table/images/header.jpg?raw=true');
+    background-image:url('images/header.jpg');
     margin-top:5%;
     background-size:cover;
     background-repeat:no-repeat;
@@ -103,7 +103,7 @@ header nav{
 
 .hero-image{
     height:40vh;
-    background-image:url('https://github.com/BrityHemming/farm-to-table-practice-project/blob/solution/farm-to-table/images/dirt.jpg?raw=true');
+    background-image:url('images/dirt.jpg');
     background-size:cover;
     background-position:center;
     background-attachment: fixed;
@@ -156,16 +156,16 @@ header nav{
     display:block;
 }
 .farm{
-    background-image:url('https://github.com/BrityHemming/farm-to-table-practice-project/blob/solution/farm-to-table/images/barn.jpg?raw=true');
+    background-image:url('images/barn.jpg');
 }
 .cook{
-    background-image:url('https://github.com/BrityHemming/farm-to-table-practice-project/blob/solution/farm-to-table/images/cook.jpg?raw=true');
+    background-image:url('images/cook.jpg');
 }
 .produce{
-    background-image: url('https://github.com/BrityHemming/farm-to-table-practice-project/blob/solution/farm-to-table/images/produce.jpg?raw=true');
+    background-image: url('images/produce.jpg');
 }
 .animals{
-    background-image: url('https://github.com/BrityHemming/farm-to-table-practice-project/blob/solution/farm-to-table/images/sheep.jpg?raw=true');
+    background-image: url('images/sheep.jpg');
 }
 
 /*Contact Section Styles*/
